@@ -1,9 +1,10 @@
 # Boston-Housing
-Connects to an SQL database file and queries for all players who have played at least 50 games and are still active.
-Converts the data into either an R data frame or a pandas data frame.
-Adds a calculated column with the player’s age and a calculated column with each player’s first and last name concatenated.
-Deletes any rows with missing values.
+The dataset includes 17 variables related to a direct marketing campaign of a Portuguese banking institution. The attributes include variables such as age, job, marital status, education, etc. Your goal is to predict if an individual will become a customer.
 
-Answers the following question:
-Which active player had the most runs batted in (“RBI” from the Batting table) from 2015-2018?
-How many double plays did Albert Pujols ground into (“GIDP” from Batting table) in 2016?
+
+Concepts needed in this project:
+ 
+Cleaning and preparing data
+Exploring and visualizing data
+Model selection
+Improving machine learning model performance
